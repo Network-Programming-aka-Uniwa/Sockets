@@ -89,7 +89,7 @@ This project demonstrates a simple **Client-Server application in Java**, where 
 |       2 | `src/`                                        | Source code files for socket programming examples   |
 |     2.1 | `src/Client.java`                             | Java client implementation for socket communication |
 |     2.2 | `src/Server.java`                             | Java server implementation for socket communication |
-|       3 | `README.md`                                   | Repository overview and usage instructions          |
+|       3 | `README.md`                                   | Repository overview                                 |
 |       4 | `INSTALL.md`                                  | Usage instructions                                  |
 
 ---
